@@ -1,3 +1,9 @@
+# Assignment details
+https://docs.google.com/document/d/1zWZCtOPapxnDKTTqKx5FYdqqqjm9zblg/edit?usp=sharing&ouid=103630475677257235828&rtpof=true&sd=true
+
+# Video
+https://www.youtube.com/watch?v=-1NTest4d_0
+
 # caffe
 * Bullet list
 * Run Yarn or npm install
@@ -15,8 +21,6 @@
 ![Screenshot_1637335134](https://user-images.githubusercontent.com/12965257/142646685-48034232-cb05-4b78-a2a9-b4f86c15fcdf.png)
 ![Screenshot_1637335148](https://user-images.githubusercontent.com/12965257/142646721-e4166384-ab95-4b5d-8c95-d088f28c6590.png)
 
-# Video
-https://www.youtube.com/watch?v=-1NTest4d_0
 
 # Consideration
 * Due to the time limitation , did not put time on more modulerization, but that is some this where can do for improvement
